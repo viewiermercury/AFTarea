@@ -8,6 +8,7 @@
 		<Item Name="File Path Msg.lvclass" Type="LVClass" URL="../../GUI Actor Messages/File Path Msg/File Path Msg.lvclass"/>
 		<Item Name="Graph data Msg.lvclass" Type="LVClass" URL="../../GUI Actor Messages/Graph data Msg/Graph data Msg.lvclass"/>
 		<Item Name="LogEnable Msg.lvclass" Type="LVClass" URL="../../GUI Actor Messages/LogEnable Msg/LogEnable Msg.lvclass"/>
+		<Item Name="SelectFormatFile Msg.lvclass" Type="LVClass" URL="../../GUI Actor Messages/SelectFormatFile Msg/SelectFormatFile Msg.lvclass"/>
 		<Item Name="StartStopACQ Msg.lvclass" Type="LVClass" URL="../../GUI Actor Messages/StartStopACQ Msg/StartStopACQ Msg.lvclass"/>
 	</Item>
 	<Item Name="GUI Actor.lvclass" Type="LVClass" URL="../GUI Actor.lvclass"/>

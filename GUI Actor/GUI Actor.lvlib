@@ -5,7 +5,10 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="File Path Msg.lvclass" Type="LVClass" URL="../../GUI Actor Messages/File Path Msg/File Path Msg.lvclass"/>
 		<Item Name="Graph data Msg.lvclass" Type="LVClass" URL="../../GUI Actor Messages/Graph data Msg/Graph data Msg.lvclass"/>
+		<Item Name="LogEnable Msg.lvclass" Type="LVClass" URL="../../GUI Actor Messages/LogEnable Msg/LogEnable Msg.lvclass"/>
+		<Item Name="StartStopACQ Msg.lvclass" Type="LVClass" URL="../../GUI Actor Messages/StartStopACQ Msg/StartStopACQ Msg.lvclass"/>
 	</Item>
 	<Item Name="GUI Actor.lvclass" Type="LVClass" URL="../GUI Actor.lvclass"/>
 </Library>

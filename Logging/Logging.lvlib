@@ -4,6 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">419463168</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Save Data Msg.lvclass" Type="LVClass" URL="../Logging Messages/Save Data Msg/Save Data Msg.lvclass"/>
+		<Item Name="Write Path Msg.lvclass" Type="LVClass" URL="../Logging Messages/Write Path Msg/Write Path Msg.lvclass"/>
+	</Item>
 	<Item Name="Logging.lvclass" Type="LVClass" URL="../Logging/Logging.lvclass"/>
 </Library>

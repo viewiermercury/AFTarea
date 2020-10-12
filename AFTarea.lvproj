@@ -16,6 +16,7 @@
 		</Item>
 		<Item Name="Graph" Type="Folder">
 			<Item Name="GUI Actor.lvlib" Type="Library" URL="../GUI Actor/GUI Actor.lvlib"/>
+			<Item Name="Logging.lvlib" Type="Library" URL="../Logging/Logging.lvlib"/>
 			<Item Name="Measurment Actor.lvlib" Type="Library" URL="../Measurment Actor/Measurment Actor.lvlib"/>
 		</Item>
 		<Item Name="Launcher.vi" Type="VI" URL="../ContadorB/Launcher.vi"/>
